@@ -12,3 +12,9 @@ This project explores an algorithm that dynamically adjusts telescope lens frequ
 1. Clone the repository:
    ```bash
    git clone https://github.com/capy06/adaptive-telescope-galaxy-tracker.git
+
+## Partners
+BAE Systems Space & Mission Systems
+Northrop Grumman
+L3Harris Technologies
+google
